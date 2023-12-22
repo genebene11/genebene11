@@ -2,7 +2,7 @@
 
 Welcome to my ✨ GitHub ✨ !
 
-- 🔭 I’m currently conducting research on machine learning & natural language processing
+- 🔭 I’m currently conducting research on emotional artificial intelligence
 - 🌱 I’m currently learning JavaScript, MongoDB, Express.js, React.js, and Node.js (MERN)
 - 💖 Interests: 
   - Writing / Technical Writing 
