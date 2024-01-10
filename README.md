@@ -3,7 +3,7 @@
 Welcome to my ✨ GitHub ✨ !
 
 - 🔭 I’m currently conducting research on emotional artificial intelligence
-- 🌱 I’m currently learning JavaScript, MongoDB, Express.js, React.js, and Node.js (MERN)
+- 🌱 I’m currently sharpening my skills on Java
 - 💖 Interests: 
   - Writing / Technical Writing 
   - Virtual Reality / Augmented Reality
