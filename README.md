@@ -2,8 +2,8 @@
 
 Welcome to my ✨ GitHub ✨ !
 
-- 🔭 I’m currently conducting research on emotional artificial intelligence
-- 🌱 I’m currently sharpening my skills on Java
+- 🔭 I’m currently studying Computer Science at the University of Arizona
+- 🌱 I’m currently interning as a DevOps Engineer
 - 💖 Interests: 
   - Writing / Technical Writing 
   - Virtual Reality / Augmented Reality
